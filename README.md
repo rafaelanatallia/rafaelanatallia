@@ -5,13 +5,11 @@
   📌 Living in <b>São Paulo</b>, <b>São Paulo</b>, <b>Brazil</b>;
 </p>
 <p align="center">
-  📚 Graduando em <b>Ciencia da Computação na Universidade Nove de Julho no Terceiro Semestre</b>📚
-  </p>
-<p align= "center">
-  📚 Cursando <b>Full Stack na Digital House</b>📚
- </p>
+  📌 Company <b>Hion Tecnologia</b>, <b>&</b>, <b>Multscan</b>;
+</p>
+
 <p align="center">
-  🎯 Foco em  <b>Front End </b>🎯
+  🎯 Profissão  <b>Desenvolvedora FrontEnd </b>🎯
 </p>
   <h2></h2>
 <p align="center">
