@@ -33,7 +33,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pc" <img src="https://github.com/rafaelanatalia/Img/blob/master/Group.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador Rafaela">
+  <img align="right" alt="Rafa-pc" <img src="https://github.com/rafaelanatallia/Img/blob/master/Group.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador Rafaela">
 </div>
   
   ##
