@@ -28,12 +28,12 @@
   
    <div>
   <a href="https://github.com/rafaelanatallia" >
-<img height="180em"src="https://github-readme-stats.vercel.app/api?username=rafaelanatallia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em"src="https://github-readme-stats.vercel.app/api?username=rafaelanatallia&show_icons=true&theme=radical&include_all_commits=true&count_private="true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelanatallia&layout=compact&langs_count=16&theme=radical"/>  
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pc" <img src="https://github.com/rafaelanatallia/Img/blob/master/Group.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador Rafaela">
+  <img align="right" alt="Rafa-pc" <img src="https://github.com/rafaelanatalia/Img/blob/master/Group.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador Rafaela">
 </div>
   
   ##
